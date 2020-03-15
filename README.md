@@ -4,3 +4,5 @@ Simulate viral disease spread (i.e. COVID-19) using an agent-based-model. In con
 The simulation is written with NetLogo. If you want to execute the nlogo files you either need to download the Netlogo Software or load the nlogo file at https://netlogoweb.org/launch#Load.
 Be aware that running the simulation with a reasonable number of agents in the web browser is very, very slow (not possible). The ABM-pandemics_web.nlogo file has a default low number of agents and runs in the browser but is also not very useful for simulating any real pandemics.
 The SARS-CoV2.nlogo file uses a larger number of agents and reasonable values for the SARS-CoV2 virus and simulating the 2019-nCoV disease. It only runs reasonably on the desktop version.
+
+You can contact me at achim.gerstenberg@ntnu.no
