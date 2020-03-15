@@ -1,0 +1,2 @@
+# Pandemics_AgentBasedModel
+Simulate viral disease spread (i.e. COVID-19) using an agent-based-model. In contrast to many existing ABM this one uses does not rely on randomly changing networks but instead combines up to three distinct either static or dynamic networks. Including some static networks is more realistic since many networks do not change quickly over time (i.e. families, social circles, school classes, etc.)
