@@ -6,3 +6,6 @@ Be aware that running the simulation with a reasonable number of agents in the w
 The SARS-CoV2.nlogo file uses a larger number of agents and reasonable values for the SARS-CoV2 virus and simulating the 2019-nCoV disease. It only runs reasonably on the desktop version.
 
 You can contact me at achim.gerstenberg@ntnu.no
+
+edit: and here is the "real deal", a publication about the spread of Covid19 with a professional simulation
+https://www.imperial.ac.uk/media/imperial-college/medicine/sph/ide/gida-fellowships/Imperial-College-COVID19-NPI-modelling-16-03-2020.pdf
